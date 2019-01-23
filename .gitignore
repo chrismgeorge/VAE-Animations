@@ -1,0 +1,4 @@
+# ignore output
+vae-faces/out
+vae-faces/log
+vae-faces/vae_ready_numpy_arrays
