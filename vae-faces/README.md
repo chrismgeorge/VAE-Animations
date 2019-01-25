@@ -36,6 +36,7 @@
 
 #### A.1) Run the following code to generate a random video! The numbers_vae_numbers can be found in /out/name
 `python3 z_make_random_video.py name numbers_vae_numbers no_of_key_frames size_of_images latent_space`
+#### Example Video https://www.youtube.com/watch?v=ymSxwsz0Jd4&feature=youtu.be
 
 ### B) Specific Video
 
